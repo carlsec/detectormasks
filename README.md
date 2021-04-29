@@ -2,6 +2,7 @@
 <h3> Detector de pessoas com e sem mascaras com YoloV5 </h3>
 
 ![plot](./runs/detect/exp4/pessoas.jpg)
+![plot](./runs/detect/exp3/carlos.jpeg)
 
 Nesse repositorio você encontra os pesos já treinados para detectar as mascaras wmaskscovid.pt
 
