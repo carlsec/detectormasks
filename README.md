@@ -5,7 +5,7 @@ Detector de Mascaras com YoloV5
 
 Nesse repositorio você encontra os pesos já treinados para detectar as mascaras wmaskscovid.pt
 
-Faça o clone do YoloV5 em https://github.com/ultralytics/yolov5
+Faça o clone do YoloV5.
 
 Exemplo de uso para uma imagem:
 
@@ -15,4 +15,7 @@ Você pode também usar a webcam em tempo real:
 
 python yolov5/detect.py --source 0 --weights wmaskscovid.pt --conf 0.25
 
-Veja mais detalhes na documentação oficial do YoloV5.
+<h1 align="center">
+    <a href="https://github.com/ultralytics/yolov5">🔗 YoloV5</a>
+</h1>
+<p align="center">🚀 Veja mais detalhes na documentação oficial do YoloV5</p>
