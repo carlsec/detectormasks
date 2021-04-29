@@ -1,17 +1,17 @@
 # detectormasks
-Detector de Mascaras com YoloV5
+<h3> Detector de Mascaras com YoloV5 </h3>
 
 ![plot](./runs/detect/exp4/pessoas.jpg)
 
 Nesse repositorio você encontra os pesos já treinados para detectar as mascaras wmaskscovid.pt
 
-Faça o clone do YoloV5.
+<h3>Faça o clone do YoloV5.</h3>
 
-Exemplo de uso para uma imagem:
+<h3>Exemplo de uso para uma imagem: </h3>
 
-python yolov5/detect.py --source yolov5/data/images/pessoas.jpg --weights wmaskscovid.pt --conf 0.25
+<p> python yolov5/detect.py --source yolov5/data/images/pessoas.jpg --weights wmaskscovid.pt --conf 0.25 </p>
 
-Você pode também usar a webcam em tempo real:
+<h3> Você pode também usar a webcam em tempo real: </h3>
 
 python yolov5/detect.py --source 0 --weights wmaskscovid.pt --conf 0.25
 
