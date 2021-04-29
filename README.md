@@ -1,5 +1,5 @@
 # detectormasks
-<h3> Detector de Mascaras com YoloV5 </h3>
+<h3> Detector de pessoas com e sem mascaras com YoloV5 </h3>
 
 ![plot](./runs/detect/exp4/pessoas.jpg)
 
