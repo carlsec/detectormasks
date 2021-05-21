@@ -4,8 +4,9 @@
 
 ![plot](./imgreadm.png)
 
-<p>Nesse repositorio você encontra os pesos já treinados para detectar as mascaras wmaskscovid.pt com Yolov5 e também os pesos do modelo craido com a FasterRCNN.<p>
 <p> In this repository you will find the weights already trained to detect the masks wmaskscovid.pt with Yolov5 and also the weights of the model created with FasterRCNN. <p>
+
+<p>Nesse repositorio você encontra os pesos já treinados para detectar as mascaras wmaskscovid.pt com Yolov5 e também os pesos do modelo craido com a FasterRCNN.<p>
     
 <p> How does Yolov5 differ from a FasterRCNN?
 While FasterR-CNN uses regions of the image to locate the object, Yolo looks at the image only once. In practice Yolo is faster but less accurate. <p>
